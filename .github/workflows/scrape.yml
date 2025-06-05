@@ -33,9 +33,6 @@ jobs:
         sudo chmod +x /usr/local/bin/chromedriver
 
     - name: Run scraper
-      env:
-        # Set this if your script needs any environment variables
-        # EXAMPLE_VAR: ${{ secrets.EXAMPLE_VAR }}
       run: |
         python astro_selenium_scraper.py
 
