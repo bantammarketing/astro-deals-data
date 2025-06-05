@@ -12,6 +12,6 @@ for store in stores:
     print(f"Scraping {name}...")
     # Call the scraper script for each store
     subprocess.run([
-        "python", "astro_selenium_scraper_any.py", url, output_file
+        "python3", "astro_selenium_scraper.py", url, output_file
     ])
 print("All stores scraped!")
