@@ -59,7 +59,7 @@ def test_github_raw_urls():
     print("=" * 50)
     
     for store in stores:
-        url = f"https://raw.githubusercontent.com/ryancaravalho/astro-deals-data/main/deals_{store}.json"
+        url = f"https://raw.githubusercontent.com/bantammarketing/astro-deals-data/main/deals_{store}.json"
         
         try:
             response = requests.get(url, timeout=10)

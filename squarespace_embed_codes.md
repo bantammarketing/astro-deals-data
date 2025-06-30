@@ -13,7 +13,7 @@
 
 ```html
 <iframe 
-    src="https://raw.githubusercontent.com/ryancaravalho/astro-deals-data/main/widget_ann_arbor.html" 
+    src="https://raw.githubusercontent.com/bantammarketing/astro-deals-data/main/widget_ann_arbor.html" 
     width="100%" 
     height="800px" 
     frameborder="0" 
@@ -28,7 +28,7 @@
 
 ```html
 <iframe 
-    src="https://raw.githubusercontent.com/ryancaravalho/astro-deals-data/main/widget_chelsea.html" 
+    src="https://raw.githubusercontent.com/bantammarketing/astro-deals-data/main/widget_chelsea.html" 
     width="100%" 
     height="800px" 
     frameborder="0" 
@@ -43,7 +43,7 @@
 
 ```html
 <iframe 
-    src="https://raw.githubusercontent.com/ryancaravalho/astro-deals-data/main/widget_ludington.html" 
+    src="https://raw.githubusercontent.com/bantammarketing/astro-deals-data/main/widget_ludington.html" 
     width="100%" 
     height="800px" 
     frameborder="0" 
@@ -58,7 +58,7 @@
 
 ```html
 <iframe 
-    src="https://raw.githubusercontent.com/ryancaravalho/astro-deals-data/main/widget_tecumseh.html" 
+    src="https://raw.githubusercontent.com/bantammarketing/astro-deals-data/main/widget_tecumseh.html" 
     width="100%" 
     height="800px" 
     frameborder="0" 
