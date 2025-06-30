@@ -1,20 +1,8 @@
 [
   {
-    "brand": "Antelope Pet Brands",
-    "title": "",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBsn6%2FJIg%3D%3D",
-    "validity": "06/01/2025 to 06/30/2025"
-  },
-  {
-    "brand": "Antelope Pet Brands",
+    "brand": "Bocce's Bakery",
     "title": "$2.00 OFF Brushy Sticks",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBsn6%2FJIw%3D%3D",
-    "validity": "06/01/2025 to 06/30/2025"
-  },
-  {
-    "brand": "Antelope Pet Brands",
-    "title": "$1.00 OFF Bocce's Training Treats",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBsn6%2FJIA%3D%3D",
     "validity": "06/01/2025 to 06/30/2025"
   },
   {
@@ -94,5 +82,17 @@
     "title": "Buy 2, Get 1 FREE on Select Freeze-Dried Goat Milk",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3TA%2BBsn6HAJw%3D%3D",
     "validity": "06/01/2025 to 06/30/2025"
+  },
+  {
+    "brand": "Super Snouts I $8.00 OFF Chews + Daily",
+    "title": "",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBsn6%2FJIg%3D%3D",
+    "validity": "06/01/2025 to 06/30/2025"
+  },
+  {
+    "brand": "Woof Pet",
+    "title": "$5.00 OFF Calming Products",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3VBuBsn6HEJQ%3D%3D",
+    "validity": "06/28/2025 to 07/13/2025"
   }
 ]
