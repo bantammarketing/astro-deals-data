@@ -1,11 +1,5 @@
 [
   {
-    "brand": "A Pup Above",
-    "title": "$7.00 OFF 7lb Gently Cooked Beef Stew",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvSA%2BBsnqrBJA%3D%3D",
-    "validity": "07/01/2025 to 07/31/2025"
-  },
-  {
     "brand": "Blue Buffalo",
     "title": "$5.00 OFF Life Protection Dry Dog Food",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGf9klqjG",
@@ -61,26 +55,26 @@
   },
   {
     "brand": "Farmina",
-    "title": "$7.00 OFF Medium Bags of N&D Prime and Ocean Dry Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGf9kk6rE",
-    "validity": "07/01/2025 to 07/31/2025"
-  },
-  {
-    "brand": "Farmina",
     "title": "$5.00 OFF Small Bags of N&D Prime and Ocean Dry Food",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGf9kk6rF",
     "validity": "07/01/2025 to 07/31/2025"
   },
   {
-    "brand": "Fromm Family Foods",
-    "title": "FREE Chub with Four-Star Dry Dog Food Purchase",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGf9kk6nJ",
-    "validity": "06/20/2025 to 08/31/2025"
+    "brand": "Farmina",
+    "title": "$7.00 OFF Medium Bags of N&D Prime and Ocean Dry Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGf9kk6rE",
+    "validity": "07/01/2025 to 07/31/2025"
   },
   {
     "brand": "Fromm Family Foods",
     "title": "Buy 1, Get 1 FREE on 16oz Chubs",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGf9kk6nI",
+    "validity": "06/20/2025 to 08/31/2025"
+  },
+  {
+    "brand": "Fromm Family Foods",
+    "title": "FREE Chub with Four-Star Dry Dog Food Purchase",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGf9kk6nJ",
     "validity": "06/20/2025 to 08/31/2025"
   },
   {
@@ -97,32 +91,20 @@
   },
   {
     "brand": "Lotus",
-    "title": "Dollars OFF Oven-Baked Dog Kibble",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynWAOBsnqnCIQ%3D%3D",
+    "title": "Dollars OFF Oven-Baked Cat Kibble",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynWAOBsnqnCIA%3D%3D",
     "validity": "07/01/2025 to 07/31/2025"
   },
   {
     "brand": "Lotus",
-    "title": "Dollars OFF Oven-Baked Cat Kibble",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynWAOBsnqnCIA%3D%3D",
+    "title": "Dollars OFF Oven-Baked Dog Kibble",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynWAOBsnqnCIQ%3D%3D",
     "validity": "07/01/2025 to 07/31/2025"
   },
   {
     "brand": "My Perfect Pet",
     "title": "$3.00 OFF Select Blends",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBsnqnIIQ%3D%3D",
-    "validity": "07/01/2025 to 07/31/2025"
-  },
-  {
-    "brand": "Nulo",
-    "title": "$1.50 OFF 20oz Bone Broths",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3WGf9klajJ",
-    "validity": "07/01/2025 to 08/31/2025"
-  },
-  {
-    "brand": "Nutri Source",
-    "title": "Buy 2, Get 1 FREE on Come-Pooch-A",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGf9klqvI",
     "validity": "07/01/2025 to 07/31/2025"
   },
   {
@@ -133,8 +115,8 @@
   },
   {
     "brand": "Nutri Source",
-    "title": "Buy 1, Get 1 FREE on Little Bites & Big Bites",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGf9klqvG",
+    "title": "Buy 2, Get 1 FREE on Come-Pooch-A",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGf9klqvI",
     "validity": "07/01/2025 to 07/31/2025"
   },
   {
@@ -142,12 +124,6 @@
     "title": "$3.00 OFF 16oz Gently Cooked Recipes",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDRGf9kla3F",
     "validity": "07/01/2025 to 07/31/2025"
-  },
-  {
-    "brand": "Pet Releaf",
-    "title": "Dollars OFF Stress Releaf Oils",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrSDuBsn6DDIw%3D%3D",
-    "validity": "06/23/2025 to 07/05/2025"
   },
   {
     "brand": "Pet Releaf",
