@@ -49,26 +49,26 @@
   },
   {
     "brand": "Farmina",
-    "title": "$7.00 OFF Medium Bags of Farmina N&D Dry Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGf9kkqDC",
-    "validity": "08/01/2025 to 08/31/2025"
-  },
-  {
-    "brand": "Farmina",
     "title": "$5.00 OFF Small Bags of N&D Dry Food",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGf9kkqDD",
     "validity": "08/01/2025 to 08/31/2025"
   },
   {
-    "brand": "Fromm Family Foods",
-    "title": "Buy 1, Get 1 FREE on 16oz Chubs",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGf9kk6nI",
-    "validity": "06/20/2025 to 08/31/2025"
+    "brand": "Farmina",
+    "title": "$7.00 OFF Medium Bags of Farmina N&D Dry Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGf9kkqDC",
+    "validity": "08/01/2025 to 08/31/2025"
   },
   {
     "brand": "Fromm Family Foods",
     "title": "FREE Chub with Four-Star Dry Dog Food Purchase",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGf9kk6nJ",
+    "validity": "06/20/2025 to 08/31/2025"
+  },
+  {
+    "brand": "Fromm Family Foods",
+    "title": "Buy 1, Get 1 FREE on 16oz Chubs",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGf9kk6nI",
     "validity": "06/20/2025 to 08/31/2025"
   },
   {
@@ -109,14 +109,14 @@
   },
   {
     "brand": "Pet Releaf",
-    "title": "Dollars OFF Daily Releaf Oils",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrSDuBsnq3CJw%3D%3D",
+    "title": "Dollars OFF Ultra Releaf Oils",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrSDuBsnq3CJA%3D%3D",
     "validity": "08/01/2025 to 08/31/2025"
   },
   {
     "brand": "Pet Releaf",
-    "title": "Dollars OFF Ultra Releaf Oils",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrSDuBsnq3CJA%3D%3D",
+    "title": "Dollars OFF Daily Releaf Oils",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrSDuBsnq3CJw%3D%3D",
     "validity": "08/01/2025 to 08/31/2025"
   },
   {
@@ -144,18 +144,6 @@
     "validity": "08/01/2025 to 08/31/2025"
   },
   {
-    "brand": "Vital Essentials",
-    "title": "Buy (2) 14oz Soft or Crunchy Nibs for Dogs, Get $10.00 OFF the 3rd!",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynUDuBsnqrEIw%3D%3D",
-    "validity": "07/01/2025 to 08/31/2025"
-  },
-  {
-    "brand": "Ziwi Peak",
-    "title": "Dollars OFF Select ZIWI Air-Dried Recipes for Dogs",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTBuBsnqzDJA%3D%3D",
-    "validity": "07/15/2025 to 08/31/2025"
-  },
-  {
     "brand": "Ziwi Peak",
     "title": "Dollars OFF Select ZIWI Steam & Dried Recipes for Dogs",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTBuBsnqzDJw%3D%3D",
@@ -166,5 +154,11 @@
     "title": "Dollars OFF Select ZIWI Air-Dried and Steam & Dried Recipes for Cats",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTBuBsnq3EIw%3D%3D",
     "validity": "08/01/2025 to 08/31/2025"
+  },
+  {
+    "brand": "Ziwi Peak",
+    "title": "Dollars OFF Select ZIWI Air-Dried Recipes for Dogs",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTBuBsnqzDJA%3D%3D",
+    "validity": "07/15/2025 to 08/31/2025"
   }
 ]
