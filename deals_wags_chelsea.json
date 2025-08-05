@@ -1,8 +1,8 @@
 [
   {
     "brand": "Antelope Pet Brands",
-    "title": "$1.00 OFF Everyday Crunchy Biscuits",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBsnqvJIQ%3D%3D",
+    "title": "$5.00 OFF 1lb Firm Up!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBsnqzGJw%3D%3D",
     "validity": "08/01/2025 to 08/31/2025"
   },
   {
@@ -13,8 +13,8 @@
   },
   {
     "brand": "Antelope Pet Brands",
-    "title": "$5.00 OFF 1lb Firm Up!",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBsnqzGJw%3D%3D",
+    "title": "$1.00 OFF Everyday Crunchy Biscuits",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBsnqvJIQ%3D%3D",
     "validity": "08/01/2025 to 08/31/2025"
   },
   {
@@ -55,26 +55,26 @@
   },
   {
     "brand": "Ethos Pet",
-    "title": "$7.00 OFF Large Bags of Dry Cat Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGf9kkanB",
-    "validity": "08/01/2025 to 08/31/2025"
-  },
-  {
-    "brand": "Ethos Pet",
     "title": "$7.00 OFF Large Bags of ALS Dry Dog Food",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGf9kkanA",
     "validity": "08/01/2025 to 08/31/2025"
   },
   {
-    "brand": "Farmina",
-    "title": "$7.00 OFF Medium Bags of Farmina N&D Dry Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGf9kkqDC",
+    "brand": "Ethos Pet",
+    "title": "$7.00 OFF Large Bags of Dry Cat Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGf9kkanB",
     "validity": "08/01/2025 to 08/31/2025"
   },
   {
     "brand": "Farmina",
     "title": "$5.00 OFF Small Bags of N&D Dry Food",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGf9kkqDD",
+    "validity": "08/01/2025 to 08/31/2025"
+  },
+  {
+    "brand": "Farmina",
+    "title": "$7.00 OFF Medium Bags of Farmina N&D Dry Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGf9kkqDC",
     "validity": "08/01/2025 to 08/31/2025"
   },
   {
@@ -97,20 +97,26 @@
   },
   {
     "brand": "Midwestern Pet Food Inc",
-    "title": "$5.00 OFF 25lb Venture Limited Ingredient Diets",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWGf9kk63F",
+    "title": "$2.00 OFF EarthBites Treats",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWGf9kk63E",
     "validity": "08/01/2025 to 08/31/2025"
   },
   {
     "brand": "Midwestern Pet Food Inc",
-    "title": "$2.00 OFF EarthBites Treats",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWGf9kk63E",
+    "title": "$5.00 OFF 25lb Venture Limited Ingredient Diets",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWGf9kk63F",
     "validity": "08/01/2025 to 08/31/2025"
   },
   {
     "brand": "Nature's Logic",
     "title": "$3.00 OFF Large Bags of Dog Kibble",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyHVGf9kk6jG",
+    "validity": "08/01/2025 to 08/31/2025"
+  },
+  {
+    "brand": "Northwest Naturals",
+    "title": "FREE Knuckle Bone with Qualifying Purchase",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynXB%2BBsnq3DIw%3D%3D",
     "validity": "08/01/2025 to 08/31/2025"
   },
   {
@@ -121,20 +127,14 @@
   },
   {
     "brand": "Pet Releaf",
-    "title": "Dollars OFF Ultra Releaf Oils",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrSDuBsnq3CJA%3D%3D",
-    "validity": "08/01/2025 to 08/31/2025"
-  },
-  {
-    "brand": "Pet Releaf",
     "title": "Dollars OFF Daily Releaf Oils",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrSDuBsnq3CJw%3D%3D",
     "validity": "08/01/2025 to 08/31/2025"
   },
   {
-    "brand": "Primal Pet Foods",
-    "title": "$8.00 OFF 14oz Freeze-Dried Raw Nuggets",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3XGf9klKzB",
+    "brand": "Pet Releaf",
+    "title": "Dollars OFF Ultra Releaf Oils",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrSDuBsnq3CJA%3D%3D",
     "validity": "08/01/2025 to 08/31/2025"
   },
   {
@@ -144,10 +144,22 @@
     "validity": "08/01/2025 to 08/31/2025"
   },
   {
+    "brand": "Primal Pet Foods",
+    "title": "$8.00 OFF 14oz Freeze-Dried Raw Nuggets",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3XGf9klKzB",
+    "validity": "08/01/2025 to 08/31/2025"
+  },
+  {
     "brand": "Raised Right Pets",
     "title": "$1.00 OFF 16oz Veterinary Support Recipes",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrTBOBsnqvCKw%3D%3D",
     "validity": "08/01/2025 to 08/31/2025"
+  },
+  {
+    "brand": "Redbarn INC",
+    "title": "Buy 2, Get 1 FREE on 9oz Bully Slices",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDWGf9klq3B",
+    "validity": "07/01/2025 to 08/31/2025"
   },
   {
     "brand": "sWheat Scoop (Targeted PetCare)",
@@ -163,14 +175,14 @@
   },
   {
     "brand": "Ziwi Peak",
-    "title": "Dollars OFF Select ZIWI Steam & Dried Recipes for Dogs",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTBuBsnqzDJw%3D%3D",
+    "title": "Dollars OFF Select ZIWI Air-Dried Recipes for Dogs",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTBuBsnqzDJA%3D%3D",
     "validity": "07/15/2025 to 08/31/2025"
   },
   {
     "brand": "Ziwi Peak",
-    "title": "Dollars OFF Select ZIWI Air-Dried Recipes for Dogs",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTBuBsnqzDJA%3D%3D",
+    "title": "Dollars OFF Select ZIWI Steam & Dried Recipes for Dogs",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTBuBsnqzDJw%3D%3D",
     "validity": "07/15/2025 to 08/31/2025"
   }
 ]
