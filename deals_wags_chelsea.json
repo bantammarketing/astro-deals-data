@@ -1,8 +1,8 @@
 [
   {
-    "brand": "Antelope Pet Brands",
-    "title": "$5.00 OFF 1lb Firm Up!",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBsnqzGJw%3D%3D",
+    "brand": "ACANA",
+    "title": "$3.00 OFF Small Bags of ACANA Dry Dog Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzfGf9kkq%2FB",
     "validity": "08/01/2025 to 08/31/2025"
   },
   {
@@ -15,6 +15,12 @@
     "brand": "Antelope Pet Brands",
     "title": "$1.00 OFF Everyday Crunchy Biscuits",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBsnqvJIQ%3D%3D",
+    "validity": "08/01/2025 to 08/31/2025"
+  },
+  {
+    "brand": "Antelope Pet Brands",
+    "title": "$5.00 OFF 1lb Firm Up!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBsnqzGJw%3D%3D",
     "validity": "08/01/2025 to 08/31/2025"
   },
   {
@@ -36,45 +42,27 @@
     "validity": "08/01/2025 to 09/30/2025"
   },
   {
+    "brand": "Canidae",
+    "title": "$7.00 OFF Large Bags of ALS Dry Dog Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGf9kkanA",
+    "validity": "08/01/2025 to 08/31/2025"
+  },
+  {
     "brand": "Carefresh by Healthy Pet",
     "title": "$5.00 OFF Medium and Large Bags of Bedding",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrfAuBsnqrBJQ%3D%3D",
     "validity": "07/01/2025 to 10/31/2025"
   },
   {
-    "brand": "Champion Pet Foods",
-    "title": "$3.00 OFF Small Bags of ACANA Dry Dog Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzfGf9kkq%2FB",
-    "validity": "08/01/2025 to 08/31/2025"
-  },
-  {
-    "brand": "Ethos Pet",
-    "title": "$7.00 OFF Large Bags of Dry Dog Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGf9kkajJ",
-    "validity": "08/01/2025 to 08/31/2025"
-  },
-  {
-    "brand": "Ethos Pet",
-    "title": "$7.00 OFF Large Bags of ALS Dry Dog Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGf9kkanA",
-    "validity": "08/01/2025 to 08/31/2025"
-  },
-  {
-    "brand": "Ethos Pet",
-    "title": "$7.00 OFF Large Bags of Dry Cat Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGf9kkanB",
+    "brand": "Farmina",
+    "title": "$7.00 OFF Medium Bags of Farmina N&D Dry Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGf9kkqDC",
     "validity": "08/01/2025 to 08/31/2025"
   },
   {
     "brand": "Farmina",
     "title": "$5.00 OFF Small Bags of N&D Dry Food",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGf9kkqDD",
-    "validity": "08/01/2025 to 08/31/2025"
-  },
-  {
-    "brand": "Farmina",
-    "title": "$7.00 OFF Medium Bags of Farmina N&D Dry Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGf9kkqDC",
     "validity": "08/01/2025 to 08/31/2025"
   },
   {
@@ -97,14 +85,26 @@
   },
   {
     "brand": "Midwestern Pet Food Inc",
+    "title": "$5.00 OFF 25lb Venture Limited Ingredient Diets",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWGf9kk63F",
+    "validity": "08/01/2025 to 08/31/2025"
+  },
+  {
+    "brand": "Midwestern Pet Food Inc",
     "title": "$2.00 OFF EarthBites Treats",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWGf9kk63E",
     "validity": "08/01/2025 to 08/31/2025"
   },
   {
-    "brand": "Midwestern Pet Food Inc",
-    "title": "$5.00 OFF 25lb Venture Limited Ingredient Diets",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWGf9kk63F",
+    "brand": "Natural Balance",
+    "title": "$7.00 OFF Large Bags of Dry Cat Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGf9kkanB",
+    "validity": "08/01/2025 to 08/31/2025"
+  },
+  {
+    "brand": "Natural Balance",
+    "title": "$7.00 OFF Large Bags of Dry Dog Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGf9kkajJ",
     "validity": "08/01/2025 to 08/31/2025"
   },
   {

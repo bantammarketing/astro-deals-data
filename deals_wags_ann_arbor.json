@@ -1,5 +1,11 @@
 [
   {
+    "brand": "ACANA",
+    "title": "$3.00 OFF Small Bags of ACANA Dry Dog Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzfGf9kkq%2FB",
+    "validity": "08/01/2025 to 08/31/2025"
+  },
+  {
     "brand": "Blue Buffalo",
     "title": "$5.00 OFF Life Protection Dry Dog Food",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGf9klqjG",
@@ -12,9 +18,9 @@
     "validity": "08/01/2025 to 09/30/2025"
   },
   {
-    "brand": "Champion Pet Foods",
-    "title": "$3.00 OFF Small Bags of ACANA Dry Dog Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzfGf9kkq%2FB",
+    "brand": "Canidae",
+    "title": "$7.00 OFF Large Bags of ALS Dry Dog Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGf9kkanA",
     "validity": "08/01/2025 to 08/31/2025"
   },
   {
@@ -28,24 +34,6 @@
     "title": "Dollars OFF Litter",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynfBeBskK7CJQ%3D%3D",
     "validity": "01/01/2025 to 12/31/2025"
-  },
-  {
-    "brand": "Ethos Pet",
-    "title": "$7.00 OFF Large Bags of Dry Cat Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGf9kkanB",
-    "validity": "08/01/2025 to 08/31/2025"
-  },
-  {
-    "brand": "Ethos Pet",
-    "title": "$7.00 OFF Large Bags of Dry Dog Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGf9kkajJ",
-    "validity": "08/01/2025 to 08/31/2025"
-  },
-  {
-    "brand": "Ethos Pet",
-    "title": "$7.00 OFF Large Bags of ALS Dry Dog Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGf9kkanA",
-    "validity": "08/01/2025 to 08/31/2025"
   },
   {
     "brand": "Farmina",
@@ -90,6 +78,18 @@
     "validity": "08/01/2025 to 08/31/2025"
   },
   {
+    "brand": "Natural Balance",
+    "title": "$7.00 OFF Large Bags of Dry Cat Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGf9kkanB",
+    "validity": "08/01/2025 to 08/31/2025"
+  },
+  {
+    "brand": "Natural Balance",
+    "title": "$7.00 OFF Large Bags of Dry Dog Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGf9kkajJ",
+    "validity": "08/01/2025 to 08/31/2025"
+  },
+  {
     "brand": "Nature's Logic",
     "title": "$3.00 OFF Large Bags of Dog Kibble",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyHVGf9kk6jG",
@@ -109,14 +109,14 @@
   },
   {
     "brand": "Pet Releaf",
-    "title": "Dollars OFF Ultra Releaf Oils",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrSDuBsnq3CJA%3D%3D",
+    "title": "Dollars OFF Daily Releaf Oils",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrSDuBsnq3CJw%3D%3D",
     "validity": "08/01/2025 to 08/31/2025"
   },
   {
     "brand": "Pet Releaf",
-    "title": "Dollars OFF Daily Releaf Oils",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrSDuBsnq3CJw%3D%3D",
+    "title": "Dollars OFF Ultra Releaf Oils",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrSDuBsnq3CJA%3D%3D",
     "validity": "08/01/2025 to 08/31/2025"
   },
   {
