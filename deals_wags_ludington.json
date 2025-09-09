@@ -31,15 +31,15 @@
   },
   {
     "brand": "ORIJEN",
-    "title": "Dollars OFF ORIJEN Freeze Dried Cat Treats",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzfGf9kkKDB",
-    "validity": "09/01/2025 to 09/26/2025"
-  },
-  {
-    "brand": "ORIJEN",
     "title": "Dollars OFF ORIJEN Freeze Dried Dog Treats",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzfGf9kkK3H",
     "validity": "09/01/2025 to 09/30/2025"
+  },
+  {
+    "brand": "ORIJEN",
+    "title": "Dollars OFF ORIJEN Freeze Dried Cat Treats",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzfGf9kkKDB",
+    "validity": "09/01/2025 to 09/26/2025"
   },
   {
     "brand": "Pestell (Targeted Pet Care)",
@@ -52,5 +52,11 @@
     "title": "$3.00 OFF Select Products",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvUD%2BBsnqjGJw%3D%3D",
     "validity": "07/01/2025 to 09/30/2025"
+  },
+  {
+    "brand": "Wellness Pet Food and Whimzees",
+    "title": "$2.00 OFF WHIMZEES Value Bags",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynXBeBsnq7IJg%3D%3D",
+    "validity": "09/01/2025 to 09/30/2025"
   }
 ]
