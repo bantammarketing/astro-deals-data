@@ -7,9 +7,9 @@
   },
   {
     "brand": "Antelope Pet Brands",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBsnq7FIg%3D%3D",
-    "validity": "09/26/2025 to 09/28/2025"
+    "title": "",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBvl6rFJg%3D%3D",
+    "validity": "10/01/2025 to 10/31/2025"
   },
   {
     "brand": "Antelope Pet Brands",
@@ -37,9 +37,9 @@
   },
   {
     "brand": "Antelope Pet Brands",
-    "title": "",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBvl6rFJg%3D%3D",
-    "validity": "10/01/2025 to 10/31/2025"
+    "title": "Neighborhood Pet Store Day",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBsnq7FIg%3D%3D",
+    "validity": "09/26/2025 to 09/28/2025"
   },
   {
     "brand": "Antelope Pet Brands",
@@ -115,15 +115,15 @@
   },
   {
     "brand": "Canidae",
-    "title": "$7.00 OFF Large Bags of Dry Dog Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxtla7I",
-    "validity": "10/01/2025 to 10/31/2025"
-  },
-  {
-    "brand": "Canidae",
     "title": "Neighborhood Pet Store Day",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGf9kn67C",
     "validity": "09/26/2025 to 09/28/2025"
+  },
+  {
+    "brand": "Canidae",
+    "title": "$7.00 OFF Large Bags of Dry Dog Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxtla7I",
+    "validity": "10/01/2025 to 10/31/2025"
   },
   {
     "brand": "Carefresh by Healthy Pet",
@@ -138,6 +138,12 @@
     "validity": "09/01/2025 to 09/30/2025"
   },
   {
+    "brand": "Chicken Soup for the Soul",
+    "title": "$5.00 OFF Medium Bags",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDSGfxtlq%2FA",
+    "validity": "10/01/2025 to 10/31/2025"
+  },
+  {
     "brand": "Dr. Marty",
     "title": "Dollars OFF Food and Treats",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXA%2BBvl6rIKw%3D%3D",
@@ -145,9 +151,15 @@
   },
   {
     "brand": "Farmina",
-    "title": "Dollars OFF Small Bags & Medium Bags of N&D Pumpkin or Ancestral Grain",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGfxtla7A",
+    "title": "Buy 3, Get 1 FREE on N&D Wet Food Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGfxtla7D",
     "validity": "10/01/2025 to 10/31/2025"
+  },
+  {
+    "brand": "Farmina",
+    "title": "Neighborhood Pet Store Day",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGf9kn6rG",
+    "validity": "09/27/2025 to 09/27/2025"
   },
   {
     "brand": "Farmina",
@@ -157,21 +169,21 @@
   },
   {
     "brand": "Farmina",
-    "title": "Neighborhood Pet Store Day",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGf9kn6rG",
-    "validity": "09/27/2025 to 09/27/2025"
-  },
-  {
-    "brand": "Fromm Family Foods",
-    "title": "$5.00 OFF Gold Dry Cat Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtl6nB",
-    "validity": "09/28/2025 to 11/30/2025"
+    "title": "Dollars OFF Small Bags & Medium Bags of N&D Pumpkin or Ancestral Grain",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGfxtla7A",
+    "validity": "10/01/2025 to 10/31/2025"
   },
   {
     "brand": "Fromm Family Foods",
     "title": "$5.00 OFF Gold Dry Cat Food",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtl6nA",
     "validity": "09/01/2025 to 09/26/2025"
+  },
+  {
+    "brand": "Fromm Family Foods",
+    "title": "$5.00 OFF Gold Dry Cat Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtl6nB",
+    "validity": "09/28/2025 to 11/30/2025"
   },
   {
     "brand": "Fromm Family Foods",
@@ -199,15 +211,15 @@
   },
   {
     "brand": "Natural Balance",
-    "title": "$7.00 OFF Large Bags of Dry Dog & Cat Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxtla7H",
-    "validity": "10/01/2025 to 10/31/2025"
-  },
-  {
-    "brand": "Natural Balance",
     "title": "Neighborhood Pet Store Day",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGf9kn67B",
     "validity": "09/26/2025 to 09/28/2025"
+  },
+  {
+    "brand": "Natural Balance",
+    "title": "$7.00 OFF Large Bags of Dry Dog & Cat Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxtla7H",
+    "validity": "10/01/2025 to 10/31/2025"
   },
   {
     "brand": "Nature's Logic",
@@ -271,15 +283,21 @@
   },
   {
     "brand": "Stella and Chewy's",
+    "title": "$10.00 OFF 35oz Meal Mixers",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyHSGf9kn6nD",
+    "validity": "09/01/2025 to 09/30/2025"
+  },
+  {
+    "brand": "Stella and Chewy's",
     "title": "$5.00 OFF 18oz Meal Mixers",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyHSGf9kn6nC",
     "validity": "09/01/2025 to 09/30/2025"
   },
   {
-    "brand": "Stella and Chewy's",
-    "title": "$10.00 OFF 35oz Meal Mixers",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyHSGf9kn6nD",
-    "validity": "09/01/2025 to 09/30/2025"
+    "brand": "sWheat Scoop (Targeted PetCare)",
+    "title": "$5.00 OFF sWheat Scoop Litter",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvQGfxtl6DG",
+    "validity": "10/01/2025 to 10/31/2025"
   },
   {
     "brand": "Tall Tails (3T Brands)",
@@ -300,10 +318,10 @@
     "validity": "09/01/2025 to 09/30/2025"
   },
   {
-    "brand": "Wellness Pet Food and Whimzees",
-    "title": "$2.00 OFF WHIMZEES Value Bags",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynXBeBsnq7IJg%3D%3D",
-    "validity": "09/01/2025 to 09/30/2025"
+    "brand": "The Honest Kitchen",
+    "title": "$10.00 OFF 7lb -10lb Wholemade Dehydrated Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7SGfxtl67I",
+    "validity": "10/01/2025 to 10/31/2025"
   },
   {
     "brand": "Wellness Pet Food and Whimzees",
@@ -312,15 +330,15 @@
     "validity": "09/27/2025 to 09/28/2025"
   },
   {
+    "brand": "Wellness Pet Food and Whimzees",
+    "title": "$2.00 OFF WHIMZEES Value Bags",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynXBeBsnq7IJg%3D%3D",
+    "validity": "09/01/2025 to 09/30/2025"
+  },
+  {
     "brand": "Zignature",
     "title": "Neighborhood Pet Store Day",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzWGf9kkKzE",
     "validity": "09/27/2025 to 09/28/2025"
-  },
-  {
-    "brand": "Ziwi Peak",
-    "title": "Dollars OFF Air-Dried and Steam & Dried Recipes for Dogs",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTBuBvl6rHJA%3D%3D",
-    "validity": "10/02/2025 to 10/31/2025"
   }
 ]
