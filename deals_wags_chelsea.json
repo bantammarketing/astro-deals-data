@@ -25,8 +25,8 @@
   },
   {
     "brand": "Blue Buffalo",
-    "title": "$4.00 OFF 15lb Life Protection Dry Dog Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxtlK%2FA",
+    "title": "$2.00 OFF Dog Treats",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxtlK%2FC",
     "validity": "11/01/2025 to 11/30/2025"
   },
   {
@@ -36,15 +36,33 @@
     "validity": "11/01/2025 to 11/30/2025"
   },
   {
+    "brand": "Blue Buffalo",
+    "title": "$4.00 OFF 15lb Life Protection Dry Dog Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxtlK%2FA",
+    "validity": "11/01/2025 to 11/30/2025"
+  },
+  {
+    "brand": "Blue Buffalo",
+    "title": "$2.00 OFF Tastesfuls 7lb Dry Cat Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxtlK%2FD",
+    "validity": "11/01/2025 to 11/30/2025"
+  },
+  {
     "brand": "Bocce's Bakery",
-    "title": "$2.00 OFF Bocce's Brushy Sticks",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBvl6rFJw%3D%3D",
-    "validity": "10/01/2025 to 10/31/2025"
+    "title": "$1.00 OFF Everday Training Bites",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBvl6vDKg%3D%3D",
+    "validity": "11/01/2025 to 11/30/2025"
   },
   {
     "brand": "Bocce's Bakery",
     "title": "$1.00 OFF Everyday Soft & Chewy Treats",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBvl6rFJA%3D%3D",
+    "validity": "10/01/2025 to 10/31/2025"
+  },
+  {
+    "brand": "Bocce's Bakery",
+    "title": "$2.00 OFF Bocce's Brushy Sticks",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBvl6rFJw%3D%3D",
     "validity": "10/01/2025 to 10/31/2025"
   },
   {
@@ -79,14 +97,14 @@
   },
   {
     "brand": "Farmina",
-    "title": "Dollars OFF Small Bags & Medium Bags of N&D Pumpkin or Ancestral Grain",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGfxtla7A",
+    "title": "Buy 3, Get 1 FREE on N&D Wet Food Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGfxtla7D",
     "validity": "10/01/2025 to 10/31/2025"
   },
   {
     "brand": "Farmina",
-    "title": "Buy 3, Get 1 FREE on N&D Wet Food Cans",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGfxtla7D",
+    "title": "Dollars OFF Small Bags & Medium Bags of N&D Pumpkin or Ancestral Grain",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGfxtla7A",
     "validity": "10/01/2025 to 10/31/2025"
   },
   {
@@ -94,6 +112,12 @@
     "title": "Buy 2, Get 1 FREE on N&D Dog Treats",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGfxtla7B",
     "validity": "10/01/2025 to 10/31/2025"
+  },
+  {
+    "brand": "Fresh News (Targeted Pet Care)",
+    "title": "$5.00 OFF All Products",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvfDuBvl63AJw%3D%3D",
+    "validity": "11/01/2025 to 11/30/2025"
   },
   {
     "brand": "Fromm Family Foods",
@@ -106,6 +130,18 @@
     "title": "Dollars OFF Air Dried Food",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynQBOBvl6nAIQ%3D%3D",
     "validity": "10/01/2025 to 10/31/2025"
+  },
+  {
+    "brand": "Health Extension",
+    "title": "$5.00 OFF Dry Cat Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTAuBvl6vEJg%3D%3D",
+    "validity": "11/01/2025 to 11/30/2025"
+  },
+  {
+    "brand": "Inaba",
+    "title": "",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3SD%2BBvl6zBKw%3D%3D",
+    "validity": "11/01/2025 to 11/30/2025"
   },
   {
     "brand": "Lotus",
@@ -124,6 +160,12 @@
     "title": "$7.00 OFF Large Bags of Dry Dog & Cat Food",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxtla7H",
     "validity": "10/01/2025 to 10/31/2025"
+  },
+  {
+    "brand": "Natural Balance",
+    "title": "$5.00 OFF Small Bags of Dry Cat Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxtkqrC",
+    "validity": "11/01/2025 to 11/30/2025"
   },
   {
     "brand": "Nature's Logic",
@@ -156,6 +198,18 @@
     "validity": "07/01/2025 to 10/31/2025"
   },
   {
+    "brand": "Raised Right Pets",
+    "title": "$1.00 OFF 16oz Veterinary Support Recipes",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrTBOBvl6rJJA%3D%3D",
+    "validity": "11/01/2025 to 11/30/2025"
+  },
+  {
+    "brand": "Stella and Chewy's",
+    "title": "Buy 2, Get 1 FREE on 16oz FreshMade",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyHSGfxtlKDH",
+    "validity": "11/01/2025 to 11/30/2025"
+  },
+  {
     "brand": "Stella and Chewy's",
     "title": "$5.00 OFF 3.5lb Baked Kibble",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyHSGfxtlKDE",
@@ -169,14 +223,14 @@
   },
   {
     "brand": "The Honest Kitchen",
-    "title": "$15.00 OFF 20lb Clusters",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7SGfxtl67H",
+    "title": "$10.00 OFF 7lb -10lb Wholemade Dehydrated Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7SGfxtl67I",
     "validity": "10/01/2025 to 10/31/2025"
   },
   {
     "brand": "The Honest Kitchen",
-    "title": "$10.00 OFF 7lb -10lb Wholemade Dehydrated Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7SGfxtl67I",
+    "title": "$15.00 OFF 20lb Clusters",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7SGfxtl67H",
     "validity": "10/01/2025 to 10/31/2025"
   },
   {

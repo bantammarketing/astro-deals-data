@@ -1,5 +1,11 @@
 [
   {
+    "brand": "Andy and Audie",
+    "title": "Buy 1 Bag of Chews, Get 1 of the Same Size FREE!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzUBOBvl63DIg%3D%3D",
+    "validity": "11/01/2025 to 11/30/2025"
+  },
+  {
     "brand": "Antelope Pet Brands",
     "title": "$4.00 OFF Original Brushless Toothpaste",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBvl6rFKg%3D%3D",
@@ -7,8 +13,8 @@
   },
   {
     "brand": "Blue Buffalo",
-    "title": "$5.00 OFF 30lb Life Protection Dry Dog Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxtlK%2FB",
+    "title": "$2.00 OFF Dog Treats",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxtlK%2FC",
     "validity": "11/01/2025 to 11/30/2025"
   },
   {
@@ -18,15 +24,45 @@
     "validity": "11/01/2025 to 11/30/2025"
   },
   {
+    "brand": "Blue Buffalo",
+    "title": "$5.00 OFF 30lb Life Protection Dry Dog Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxtlK%2FB",
+    "validity": "11/01/2025 to 11/30/2025"
+  },
+  {
+    "brand": "Bocce's Bakery",
+    "title": "$1.00 OFF Everday Training Bites",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBvl6vDKg%3D%3D",
+    "validity": "11/01/2025 to 11/30/2025"
+  },
+  {
     "brand": "Canidae",
     "title": "$7.00 OFF Large Bags of Dry Dog Food",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxtla7I",
     "validity": "10/01/2025 to 10/31/2025"
   },
   {
+    "brand": "Carefresh",
+    "title": "Black Friday",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrfAuBvl63AJg%3D%3D",
+    "validity": "11/15/2025 to 11/30/2025"
+  },
+  {
     "brand": "Dr. Marty",
     "title": "Dollars OFF Food and Treats",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXA%2BBvl6rIKw%3D%3D",
+    "validity": "10/01/2025 to 10/31/2025"
+  },
+  {
+    "brand": "Earthborn Holistic",
+    "title": "$5.00 OFF 12.5lb Earthborn Holistic Dry Cat Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWGfxtlKDG",
+    "validity": "11/01/2025 to 11/30/2025"
+  },
+  {
+    "brand": "Farmina",
+    "title": "Dollars OFF Small Bags & Medium Bags of N&D Pumpkin or Ancestral Grain",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGfxtla7A",
     "validity": "10/01/2025 to 10/31/2025"
   },
   {
@@ -36,10 +72,22 @@
     "validity": "10/01/2025 to 10/31/2025"
   },
   {
-    "brand": "Farmina",
-    "title": "Dollars OFF Small Bags & Medium Bags of N&D Pumpkin or Ancestral Grain",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGfxtla7A",
-    "validity": "10/01/2025 to 10/31/2025"
+    "brand": "Finley's",
+    "title": "Buy 1, Get 1 FREE on Finley's Biscuits & Hearty Selects",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxtk6vH",
+    "validity": "11/01/2025 to 11/30/2025"
+  },
+  {
+    "brand": "Inaba",
+    "title": "",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3SD%2BBvl6zBKw%3D%3D",
+    "validity": "11/01/2025 to 11/30/2025"
+  },
+  {
+    "brand": "KOHA - Nootie",
+    "title": "$0.50 OFF Progility Calming Bars",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3RGfxtlKnF",
+    "validity": "11/01/2025 to 11/30/2025"
   },
   {
     "brand": "My Perfect Pet",
@@ -49,21 +97,45 @@
   },
   {
     "brand": "Natural Balance",
+    "title": "$7.00 OFF Large Bags of Dry Dog & Cat Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxtla7H",
+    "validity": "10/01/2025 to 10/31/2025"
+  },
+  {
+    "brand": "Natural Balance",
+    "title": "$5.00 OFF Small Bags of Dry Cat Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxtkqrC",
+    "validity": "11/01/2025 to 11/30/2025"
+  },
+  {
+    "brand": "Natural Balance",
     "title": "$5.00 OFF Small Bags of Dry Dog Food",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxtkqrD",
     "validity": "11/01/2025 to 11/30/2025"
   },
   {
-    "brand": "Natural Balance",
-    "title": "$7.00 OFF Large Bags of Dry Dog & Cat Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxtla7H",
-    "validity": "10/01/2025 to 10/31/2025"
+    "brand": "Nutri Source",
+    "title": "$10.00 OFF 26lb Chicken Free Formulas!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxtkqzE",
+    "validity": "11/01/2025 to 12/31/2025"
   },
   {
     "brand": "Old Mother Hubbard Baking Co.",
     "title": "$3.00 OFF 6lb Boxes",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynXBeBvl6rCIA%3D%3D",
     "validity": "10/01/2025 to 10/31/2025"
+  },
+  {
+    "brand": "Pestell (Targeted Pet Care)",
+    "title": "Dollars OFF Select Easy Clean Clumping Litter",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvfGfxtkqvI",
+    "validity": "11/01/2025 to 11/30/2025"
+  },
+  {
+    "brand": "Ultimates",
+    "title": "Buy 1, Get 1 FREE on 7oz Jerky Treats",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWGfxtlKDD",
+    "validity": "11/01/2025 to 11/30/2025"
   },
   {
     "brand": "Weruva Inc.",
