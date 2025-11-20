@@ -7,8 +7,8 @@
   },
   {
     "brand": "Blue Buffalo",
-    "title": "$2.00 OFF Dog Treats",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxtlK%2FC",
+    "title": "$5.00 OFF 30lb Life Protection Dry Dog Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxtlK%2FB",
     "validity": "11/01/2025 to 11/30/2025"
   },
   {
@@ -19,8 +19,8 @@
   },
   {
     "brand": "Blue Buffalo",
-    "title": "$5.00 OFF 30lb Life Protection Dry Dog Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxtlK%2FB",
+    "title": "$2.00 OFF Dog Treats",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxtlK%2FC",
     "validity": "11/01/2025 to 11/30/2025"
   },
   {
@@ -28,6 +28,12 @@
     "title": "$1.00 OFF Everday Training Bites",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBvl6vDKg%3D%3D",
     "validity": "11/01/2025 to 11/30/2025"
+  },
+  {
+    "brand": "Canidae",
+    "title": "Black Friday",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxtkq3G",
+    "validity": "11/28/2025 to 12/01/2025"
   },
   {
     "brand": "Carefresh",
@@ -42,10 +48,28 @@
     "validity": "11/01/2025 to 11/30/2025"
   },
   {
+    "brand": "Farmina",
+    "title": "Black Friday",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGfxtkarH",
+    "validity": "11/28/2025 to 12/01/2025"
+  },
+  {
+    "brand": "Farmina",
+    "title": "Black Friday",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGfxtkq%2FI",
+    "validity": "11/28/2025 to 12/01/2025"
+  },
+  {
     "brand": "Finley's",
     "title": "Buy 1, Get 1 FREE on Finley's Biscuits & Hearty Selects",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxtk6vH",
     "validity": "11/01/2025 to 11/30/2025"
+  },
+  {
+    "brand": "Fromm Pet Food",
+    "title": "Black Friday",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtn63G",
+    "validity": "11/28/2025 to 11/29/2025"
   },
   {
     "brand": "Inaba",
@@ -67,15 +91,21 @@
   },
   {
     "brand": "Natural Balance",
+    "title": "$5.00 OFF Small Bags of Dry Dog Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxtkqrD",
+    "validity": "11/01/2025 to 11/30/2025"
+  },
+  {
+    "brand": "Natural Balance",
     "title": "$5.00 OFF Small Bags of Dry Cat Food",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxtkqrC",
     "validity": "11/01/2025 to 11/30/2025"
   },
   {
     "brand": "Natural Balance",
-    "title": "$5.00 OFF Small Bags of Dry Dog Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxtkqrD",
-    "validity": "11/01/2025 to 11/30/2025"
+    "title": "Black Friday",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxtkq3D",
+    "validity": "11/28/2025 to 12/01/2025"
   },
   {
     "brand": "Nutri Source",
