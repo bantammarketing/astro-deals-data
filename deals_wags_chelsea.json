@@ -19,14 +19,14 @@
   },
   {
     "brand": "Blue Buffalo",
-    "title": "$4.00 OFF 15lb Life Protection Dry Dog Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxtlK%2FA",
+    "title": "$2.00 OFF Tastesfuls 7lb Dry Cat Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxtlK%2FD",
     "validity": "11/01/2025 to 11/30/2025"
   },
   {
     "brand": "Blue Buffalo",
-    "title": "$2.00 OFF Tastesfuls 7lb Dry Cat Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxtlK%2FD",
+    "title": "$4.00 OFF 15lb Life Protection Dry Dog Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxtlK%2FA",
     "validity": "11/01/2025 to 11/30/2025"
   },
   {
@@ -48,15 +48,21 @@
     "validity": "11/01/2025 to 11/30/2025"
   },
   {
-    "brand": "Farmina",
+    "brand": "Earth Rated",
     "title": "Black Friday",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGfxtkq%2FI",
-    "validity": "11/28/2025 to 12/01/2025"
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvfB%2BBvl67AIg%3D%3D",
+    "validity": "11/28/2025 to 11/30/2025"
   },
   {
     "brand": "Farmina",
     "title": "Black Friday",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGfxtkarH",
+    "validity": "11/28/2025 to 12/01/2025"
+  },
+  {
+    "brand": "Farmina",
+    "title": "Black Friday",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGfxtkq%2FI",
     "validity": "11/28/2025 to 12/01/2025"
   },
   {
@@ -152,6 +158,12 @@
   {
     "brand": "Nulo",
     "title": "Black Friday",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3WGfxtkq7B",
+    "validity": "11/28/2025 to 11/29/2025"
+  },
+  {
+    "brand": "Nulo",
+    "title": "Black Friday",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3WGfxtk6zG",
     "validity": "11/28/2025 to 11/29/2025"
   },
@@ -163,15 +175,27 @@
   },
   {
     "brand": "Nutri Source",
+    "title": "Buy 1, Get 1 FREE on Select NEW 4lb Formulas",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxtkqzD",
+    "validity": "11/01/2025 to 12/31/2025"
+  },
+  {
+    "brand": "Nutri Source",
     "title": "$10.00 OFF 26lb Chicken Free Formulas!",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxtkqzE",
     "validity": "11/01/2025 to 12/31/2025"
   },
   {
-    "brand": "Nutri Source",
-    "title": "Buy 1, Get 1 FREE on Select NEW 4lb Formulas",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxtkqzD",
-    "validity": "11/01/2025 to 12/31/2025"
+    "brand": "Open Farm",
+    "title": "Black Friday",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDRGfxtka%2FC",
+    "validity": "11/28/2025 to 12/01/2025"
+  },
+  {
+    "brand": "Open Farm",
+    "title": "Black Friday",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDRGfxtka%2FD",
+    "validity": "11/28/2025 to 12/01/2025"
   },
   {
     "brand": "Pestell (Targeted Pet Care)",
@@ -250,5 +274,29 @@
     "title": "Black Friday",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3VBuBvl6zAIw%3D%3D",
     "validity": "11/28/2025 to 11/30/2025"
+  },
+  {
+    "brand": "Ziwi",
+    "title": "Black Friday",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTBuBvl6zDIg%3D%3D",
+    "validity": "11/28/2025 to 12/01/2025"
+  },
+  {
+    "brand": "Ziwi Peak",
+    "title": "Black Friday",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTBuBvl6zDJw%3D%3D",
+    "validity": "11/28/2025 to 12/01/2025"
+  },
+  {
+    "brand": "Ziwi Peak",
+    "title": "Black Friday",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTBuBvl6zDJg%3D%3D",
+    "validity": "11/28/2025 to 12/01/2025"
+  },
+  {
+    "brand": "Ziwi Peak",
+    "title": "Black Friday",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTBuBvl6zDJA%3D%3D",
+    "validity": "11/28/2025 to 12/01/2025"
   }
 ]
