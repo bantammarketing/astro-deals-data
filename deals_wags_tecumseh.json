@@ -1,11 +1,5 @@
 [
   {
-    "brand": "Badlands Ranch",
-    "title": "Black Friday",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3UD%2BBvl67CIw%3D%3D",
-    "validity": "11/28/2025 to 11/29/2025"
-  },
-  {
     "brand": "BIXBI",
     "title": "Buy 2, Get 1 FREE on All Treats",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynSA%2BBvl6vCIw%3D%3D",
@@ -73,12 +67,6 @@
   },
   {
     "brand": "Fromm Family Foods",
-    "title": "Buy 5, Get 1 FREE on Fromm Dog Food Cans",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtla%2FA",
-    "validity": "09/28/2025 to 12/31/2025"
-  },
-  {
-    "brand": "Fromm Family Foods",
     "title": "$5.00 OFF Gold Dry Cat Food",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtl6nB",
     "validity": "09/28/2025 to 11/30/2025"
@@ -88,6 +76,12 @@
     "title": "Buy 1, Get 1 FREE on Cat Cans",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtl6vF",
     "validity": "09/01/2025 to 11/30/2025"
+  },
+  {
+    "brand": "Fromm Family Foods",
+    "title": "Buy 5, Get 1 FREE on Fromm Dog Food Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtla%2FA",
+    "validity": "09/28/2025 to 12/31/2025"
   },
   {
     "brand": "Get Naked",
@@ -115,15 +109,15 @@
   },
   {
     "brand": "Natural Balance",
-    "title": "$5.00 OFF Small Bags of Dry Cat Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxtkqrC",
-    "validity": "11/01/2025 to 11/30/2025"
-  },
-  {
-    "brand": "Natural Balance",
     "title": "Black Friday",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxtkq3D",
     "validity": "11/28/2025 to 12/01/2025"
+  },
+  {
+    "brand": "Natural Balance",
+    "title": "$5.00 OFF Small Bags of Dry Cat Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxtkqrC",
+    "validity": "11/01/2025 to 11/30/2025"
   },
   {
     "brand": "Nature's Logic",
@@ -136,18 +130,6 @@
     "title": "$6.00 OFF Large Bags of Distinction",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyHVGfxtk6HJ",
     "validity": "11/01/2025 to 11/30/2025"
-  },
-  {
-    "brand": "Nulo",
-    "title": "Black Friday",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3WGfxtk6zH",
-    "validity": "11/28/2025 to 11/29/2025"
-  },
-  {
-    "brand": "Nulo",
-    "title": "Black Friday",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3WGfxtk6zG",
-    "validity": "11/28/2025 to 11/29/2025"
   },
   {
     "brand": "Nutri Source",
