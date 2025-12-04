@@ -25,14 +25,14 @@
   },
   {
     "brand": "Blue Buffalo",
-    "title": "$4.00 OFF Blue Buffalo Dog Treats",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxtkKzB",
+    "title": "$2.00 OFF Blue Buffalo Cat Treats",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxtkKzC",
     "validity": "12/01/2025 to 12/31/2025"
   },
   {
     "brand": "Blue Buffalo",
-    "title": "$2.00 OFF Blue Buffalo Cat Treats",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxtkKzC",
+    "title": "$4.00 OFF Blue Buffalo Dog Treats",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxtkKzB",
     "validity": "12/01/2025 to 12/31/2025"
   },
   {
@@ -66,12 +66,6 @@
     "validity": "12/15/2025 to 12/31/2025"
   },
   {
-    "brand": "Evanger's",
-    "title": "Black Friday",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynSDuBvl67EKg%3D%3D",
-    "validity": "11/28/2025 to 12/02/2025"
-  },
-  {
     "brand": "Fera Pets, Inc.",
     "title": "$3.00 OFF Collagen Plus and Wholefood Multivitamin",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzTAuBvl6DCJg%3D%3D",
@@ -85,8 +79,8 @@
   },
   {
     "brand": "Fromm",
-    "title": "Buy 3, Get 1 FREE on 6oz Crunchy Os Dog Treats",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtkKrA",
+    "title": "Buy a 26oz Crunchy Os, Get a 6oz Crunchy Os FREE!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtkKrB",
     "validity": "11/01/2025 to 12/31/2025"
   },
   {
@@ -97,8 +91,8 @@
   },
   {
     "brand": "Fromm",
-    "title": "Buy a 26oz Crunchy Os, Get a 6oz Crunchy Os FREE!",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtkKrB",
+    "title": "Buy 3, Get 1 FREE on 6oz Crunchy Os Dog Treats",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtkKrA",
     "validity": "11/01/2025 to 12/31/2025"
   },
   {
@@ -199,26 +193,26 @@
   },
   {
     "brand": "Shameless Pets",
-    "title": "$1.00 OFF Crunchy Cat Treats",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzXA%2BBvl6HBIQ%3D%3D",
-    "validity": "12/01/2025 to 12/31/2025"
-  },
-  {
-    "brand": "Shameless Pets",
     "title": "$2.00 OFF Dog Treats",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzXA%2BBvl6HBIA%3D%3D",
     "validity": "12/01/2025 to 12/31/2025"
   },
   {
-    "brand": "Stella and Chewy's",
-    "title": "$4.00 OFF Select Freeze-Dried",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyHSGfxtn6zE",
+    "brand": "Shameless Pets",
+    "title": "$1.00 OFF Crunchy Cat Treats",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzXA%2BBvl6HBIQ%3D%3D",
     "validity": "12/01/2025 to 12/31/2025"
   },
   {
     "brand": "Stella and Chewy's",
     "title": "Buy 2, Get 1 FREE on Dog & Cat Wet Food Products",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyHSGfxtkKHD",
+    "validity": "12/01/2025 to 12/31/2025"
+  },
+  {
+    "brand": "Stella and Chewy's",
+    "title": "$4.00 OFF Select Freeze-Dried",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyHSGfxtn6zE",
     "validity": "12/01/2025 to 12/31/2025"
   },
   {

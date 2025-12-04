@@ -55,12 +55,6 @@
   },
   {
     "brand": "Health Extension",
-    "title": "$3.00 OFF Large Bags",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTAuBvl6DAKw%3D%3D",
-    "validity": "12/01/2025 to 12/31/2025"
-  },
-  {
-    "brand": "Health Extension",
     "title": "Buy 3, Get 1 FREE on 3oz Gently Cooked Pouches",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTAuBvl6DBJQ%3D%3D",
     "validity": "12/01/2025 to 12/31/2025"
@@ -69,6 +63,12 @@
     "brand": "Health Extension",
     "title": "Buy 1, Get 1 FREE on 3.5lb Grain Free Little Bites",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTAuBvl6DBIw%3D%3D",
+    "validity": "12/01/2025 to 12/31/2025"
+  },
+  {
+    "brand": "Health Extension",
+    "title": "$3.00 OFF Large Bags",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTAuBvl6DAKw%3D%3D",
     "validity": "12/01/2025 to 12/31/2025"
   },
   {
@@ -91,14 +91,14 @@
   },
   {
     "brand": "Nutri Source",
-    "title": "$10.00 OFF 26lb Chicken Free Formulas!",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxtkqzE",
+    "title": "Buy 1, Get 1 FREE on Select NEW 4lb Formulas",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxtkqzD",
     "validity": "11/01/2025 to 12/31/2025"
   },
   {
     "brand": "Nutri Source",
-    "title": "Buy 1, Get 1 FREE on Select NEW 4lb Formulas",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxtkqzD",
+    "title": "$10.00 OFF 26lb Chicken Free Formulas!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxtkqzE",
     "validity": "11/01/2025 to 12/31/2025"
   },
   {
@@ -118,18 +118,6 @@
     "title": "Buy 1, Get 1 FREE on Dog & Cat Treats!",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzfGfxtn67H",
     "validity": "12/01/2025 to 12/31/2025"
-  },
-  {
-    "brand": "Pet Releaf",
-    "title": "Black Friday",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrSDuBvl6zJJQ%3D%3D",
-    "validity": "11/25/2025 to 12/02/2025"
-  },
-  {
-    "brand": "Pet Releaf",
-    "title": "Black Friday",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrSDuBvl6zJJA%3D%3D",
-    "validity": "11/25/2025 to 12/02/2025"
   },
   {
     "brand": "PureVita",
