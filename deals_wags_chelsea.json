@@ -1,5 +1,17 @@
 [
   {
+    "brand": "Acana",
+    "title": "Buy 1, Get 1 FREE on Small Bags of Puppy or Kitten Kibble",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzfGfxsl6jH",
+    "validity": "01/01/2026 to 01/31/2026"
+  },
+  {
+    "brand": "Blue Buffalo",
+    "title": "$2.00 OFF Blue Buffalo Dog Treats",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxsl6zH",
+    "validity": "01/01/2026 to 01/31/2026"
+  },
+  {
     "brand": "Bocce's Bakery",
     "title": "$1.00 OFF Basic Soft & Chewy Treats",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBvl6%2FBJg%3D%3D",
@@ -10,6 +22,18 @@
     "title": "$7.00 OFF Large Bags of Dry Dog Food",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxtkK7D",
     "validity": "12/02/2025 to 12/31/2025"
+  },
+  {
+    "brand": "Canidae",
+    "title": "$5.00 OFF Pure Farm to Bowl Small Bags of Dry Dog Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxslqDH",
+    "validity": "01/01/2026 to 01/31/2026"
+  },
+  {
+    "brand": "Carefresh",
+    "title": "$5.00 OFF Medium and Large Bags of Bedding",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrfAuBvlqjIKg%3D%3D",
+    "validity": "01/01/2026 to 06/30/2026"
   },
   {
     "brand": "Carefresh",
@@ -24,10 +48,22 @@
     "validity": "12/01/2025 to 12/31/2025"
   },
   {
+    "brand": "Dogswell",
+    "title": "Dollars OFF Dental Treats",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynWBuBvlqnGIQ%3D%3D",
+    "validity": "01/01/2026 to 01/31/2026"
+  },
+  {
     "brand": "Earthborn Holistic",
     "title": "Buy a 25lb Bag, Get a Chewy or Crunchy Treat FREE!",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWGfxtn67A",
     "validity": "12/01/2025 to 12/31/2025"
+  },
+  {
+    "brand": "Eco Shell",
+    "title": "Dollars OFF Litter",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynfBeBvlqjEKg%3D%3D",
+    "validity": "01/01/2026 to 02/28/2026"
   },
   {
     "brand": "Ethos Pet",
@@ -48,6 +84,12 @@
     "validity": "12/01/2025 to 12/31/2025"
   },
   {
+    "brand": "Fresh News (Targeted Pet Care)",
+    "title": "Dollars OFF 12lb and 25lb Cat Litter",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvfDuBvlqnEIQ%3D%3D",
+    "validity": "01/01/2026 to 01/31/2026"
+  },
+  {
     "brand": "Fromm",
     "title": "Buy a 26oz Crunchy Os, Get a 6oz Crunchy Os FREE!",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtkKrB",
@@ -55,8 +97,8 @@
   },
   {
     "brand": "Health Extension",
-    "title": "Buy 3, Get 1 FREE on 3oz Gently Cooked Pouches",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTAuBvl6DBJQ%3D%3D",
+    "title": "$3.00 OFF Large Bags",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTAuBvl6DAKw%3D%3D",
     "validity": "12/01/2025 to 12/31/2025"
   },
   {
@@ -67,8 +109,8 @@
   },
   {
     "brand": "Health Extension",
-    "title": "$3.00 OFF Large Bags",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTAuBvl6DAKw%3D%3D",
+    "title": "Buy 3, Get 1 FREE on 3oz Gently Cooked Pouches",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTAuBvl6DBJQ%3D%3D",
     "validity": "12/01/2025 to 12/31/2025"
   },
   {
@@ -78,16 +120,34 @@
     "validity": "12/01/2025 to 12/31/2025"
   },
   {
+    "brand": "Midwestern Pet Food Inc",
+    "title": "Buy 1, Get 1 FREE on Wholesomes Rewards Biscuits",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWGfxslqrA",
+    "validity": "01/01/2026 to 01/31/2026"
+  },
+  {
     "brand": "Natural Balance",
     "title": "$2.00 OFF Dog Treats",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxtkK%2FB",
     "validity": "12/01/2025 to 12/31/2025"
   },
   {
+    "brand": "Natural Balance",
+    "title": "$6.00 OFF Large Bags of Limited Ingredient Dry Dog Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxslqDI",
+    "validity": "01/01/2026 to 01/31/2026"
+  },
+  {
     "brand": "Natures Logic",
     "title": "$4.00 OFF Small Bags",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyHVGfxtkKDC",
     "validity": "12/01/2025 to 12/31/2025"
+  },
+  {
+    "brand": "Nulo",
+    "title": "Dollars OFF Cat Kibble!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3WGfxsl67E",
+    "validity": "01/01/2026 to 02/28/2026"
   },
   {
     "brand": "Nutri Source",
@@ -114,10 +174,34 @@
     "validity": "12/01/2025 to 12/31/2025"
   },
   {
+    "brand": "Okocat",
+    "title": "$3.00 OFF Okocat Litter",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrXBOBvlqjJJw%3D%3D",
+    "validity": "01/01/2026 to 06/30/2026"
+  },
+  {
+    "brand": "Orijen",
+    "title": "Buy 1, Get 1 FREE on Small Bags of Puppy or Kitten Kibble",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzfGfxsl6jD",
+    "validity": "01/01/2026 to 01/31/2026"
+  },
+  {
     "brand": "Orijen",
     "title": "Buy 1, Get 1 FREE on Dog & Cat Treats!",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzfGfxtn67H",
     "validity": "12/01/2025 to 12/31/2025"
+  },
+  {
+    "brand": "Pet Releaf",
+    "title": "Dollars OFF Daily Releaf Oils",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrSDuBvlqjEKw%3D%3D",
+    "validity": "01/01/2026 to 01/31/2026"
+  },
+  {
+    "brand": "Plato Pet Treats",
+    "title": "Dollars OFF Fish Oil",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynVB%2BBvlqjFJg%3D%3D",
+    "validity": "01/01/2026 to 01/31/2026"
   },
   {
     "brand": "PureVita",
@@ -127,9 +211,27 @@
   },
   {
     "brand": "Stella and Chewy's",
+    "title": "$2.00 OFF FreshMade Gently Cooked Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyHSGfxslqnA",
+    "validity": "01/01/2026 to 01/31/2026"
+  },
+  {
+    "brand": "Stella and Chewy's",
     "title": "$4.00 OFF Select Freeze-Dried",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyHSGfxtn6zE",
     "validity": "12/01/2025 to 12/31/2025"
+  },
+  {
+    "brand": "sWheat Scoop",
+    "title": "Dollars OFF sWheat Scoop Litter",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvQGfxslqzE",
+    "validity": "01/01/2026 to 01/31/2026"
+  },
+  {
+    "brand": "The Honest Kitchen",
+    "title": "$7.00 OFF 4lb-5lb Clusters for Dogs",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7SGfxtnq%2FJ",
+    "validity": "01/01/2026 to 01/31/2026"
   },
   {
     "brand": "The Honest Kitchen",
