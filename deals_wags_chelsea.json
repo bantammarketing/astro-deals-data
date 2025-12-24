@@ -31,15 +31,15 @@
   },
   {
     "brand": "Carefresh",
-    "title": "$5.00 OFF Medium and Large Bags of Bedding",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrfAuBvlqjIKg%3D%3D",
-    "validity": "01/01/2026 to 06/30/2026"
-  },
-  {
-    "brand": "Carefresh",
     "title": "$6.00 OFF 60L Natural Bedding",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrfAuBvl6DJKw%3D%3D",
     "validity": "12/01/2025 to 12/31/2025"
+  },
+  {
+    "brand": "Carefresh",
+    "title": "$5.00 OFF Medium and Large Bags of Bedding",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrfAuBvlqjIKg%3D%3D",
+    "validity": "01/01/2026 to 06/30/2026"
   },
   {
     "brand": "Chicken Soup for Pet Lovers",
@@ -97,8 +97,8 @@
   },
   {
     "brand": "Health Extension",
-    "title": "$3.00 OFF Large Bags",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTAuBvl6DAKw%3D%3D",
+    "title": "Buy 3, Get 1 FREE on 3oz Gently Cooked Pouches",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTAuBvl6DBJQ%3D%3D",
     "validity": "12/01/2025 to 12/31/2025"
   },
   {
@@ -109,8 +109,8 @@
   },
   {
     "brand": "Health Extension",
-    "title": "Buy 3, Get 1 FREE on 3oz Gently Cooked Pouches",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTAuBvl6DBJQ%3D%3D",
+    "title": "$3.00 OFF Large Bags",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTAuBvl6DAKw%3D%3D",
     "validity": "12/01/2025 to 12/31/2025"
   },
   {
@@ -145,20 +145,26 @@
   },
   {
     "brand": "Nulo",
+    "title": "Dollars OFF Dry Dog Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3WGfxsl67G",
+    "validity": "01/01/2026 to 02/28/2026"
+  },
+  {
+    "brand": "Nulo",
     "title": "Dollars OFF Cat Kibble!",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3WGfxsl67E",
     "validity": "01/01/2026 to 02/28/2026"
   },
   {
     "brand": "Nutri Source",
-    "title": "Buy 1, Get 1 FREE on Select NEW 4lb Formulas",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxtkqzD",
+    "title": "$10.00 OFF 26lb Chicken Free Formulas!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxtkqzE",
     "validity": "11/01/2025 to 12/31/2025"
   },
   {
     "brand": "Nutri Source",
-    "title": "$10.00 OFF 26lb Chicken Free Formulas!",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxtkqzE",
+    "title": "Buy 1, Get 1 FREE on Select NEW 4lb Formulas",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxtkqzD",
     "validity": "11/01/2025 to 12/31/2025"
   },
   {
@@ -211,15 +217,15 @@
   },
   {
     "brand": "Stella and Chewy's",
-    "title": "$2.00 OFF FreshMade Gently Cooked Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyHSGfxslqnA",
-    "validity": "01/01/2026 to 01/31/2026"
-  },
-  {
-    "brand": "Stella and Chewy's",
     "title": "$4.00 OFF Select Freeze-Dried",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyHSGfxtn6zE",
     "validity": "12/01/2025 to 12/31/2025"
+  },
+  {
+    "brand": "Stella and Chewy's",
+    "title": "$2.00 OFF FreshMade Gently Cooked Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyHSGfxslqnA",
+    "validity": "01/01/2026 to 01/31/2026"
   },
   {
     "brand": "sWheat Scoop",
