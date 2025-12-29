@@ -54,6 +54,12 @@
     "validity": "01/01/2026 to 01/31/2026"
   },
   {
+    "brand": "earthbath",
+    "title": "$2.00 OFF Cat Products",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7WBuBvlqjAKw%3D%3D",
+    "validity": "01/01/2026 to 01/31/2026"
+  },
+  {
     "brand": "Earthborn Holistic",
     "title": "Buy a 25lb Bag, Get a Chewy or Crunchy Treat FREE!",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWGfxtn67A",
@@ -96,6 +102,12 @@
     "validity": "11/01/2025 to 12/31/2025"
   },
   {
+    "brand": "Fromm Pet Food",
+    "title": "$5.00 OFF 4lb & 10lb PurrSnickitty Dry Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxslaHB",
+    "validity": "01/01/2026 to 03/31/2026"
+  },
+  {
     "brand": "Health Extension",
     "title": "Buy 3, Get 1 FREE on 3oz Gently Cooked Pouches",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTAuBvl6DBJQ%3D%3D",
@@ -103,14 +115,14 @@
   },
   {
     "brand": "Health Extension",
-    "title": "Buy 1, Get 1 FREE on 3.5lb Grain Free Little Bites",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTAuBvl6DBIw%3D%3D",
+    "title": "$3.00 OFF Large Bags",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTAuBvl6DAKw%3D%3D",
     "validity": "12/01/2025 to 12/31/2025"
   },
   {
     "brand": "Health Extension",
-    "title": "$3.00 OFF Large Bags",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTAuBvl6DAKw%3D%3D",
+    "title": "Buy 1, Get 1 FREE on 3.5lb Grain Free Little Bites",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynTAuBvl6DBIw%3D%3D",
     "validity": "12/01/2025 to 12/31/2025"
   },
   {
@@ -145,26 +157,26 @@
   },
   {
     "brand": "Nulo",
-    "title": "Dollars OFF Dry Dog Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3WGfxsl67G",
-    "validity": "01/01/2026 to 02/28/2026"
-  },
-  {
-    "brand": "Nulo",
     "title": "Dollars OFF Cat Kibble!",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3WGfxsl67E",
     "validity": "01/01/2026 to 02/28/2026"
   },
   {
-    "brand": "Nutri Source",
-    "title": "$10.00 OFF 26lb Chicken Free Formulas!",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxtkqzE",
-    "validity": "11/01/2025 to 12/31/2025"
+    "brand": "Nulo",
+    "title": "Dollars OFF Dry Dog Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3WGfxsl67G",
+    "validity": "01/01/2026 to 02/28/2026"
   },
   {
     "brand": "Nutri Source",
     "title": "Buy 1, Get 1 FREE on Select NEW 4lb Formulas",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxtkqzD",
+    "validity": "11/01/2025 to 12/31/2025"
+  },
+  {
+    "brand": "Nutri Source",
+    "title": "$10.00 OFF 26lb Chicken Free Formulas!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxtkqzE",
     "validity": "11/01/2025 to 12/31/2025"
   },
   {
@@ -175,15 +187,15 @@
   },
   {
     "brand": "Okocat",
-    "title": "$5.00 OFF Okocat Litter",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrfAuBvl6%2FIIQ%3D%3D",
-    "validity": "12/01/2025 to 12/31/2025"
-  },
-  {
-    "brand": "Okocat",
     "title": "$3.00 OFF Okocat Litter",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrfAuBvlqjJJw%3D%3D",
     "validity": "01/01/2026 to 06/30/2026"
+  },
+  {
+    "brand": "Okocat",
+    "title": "$5.00 OFF Okocat Litter",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrfAuBvl6%2FIIQ%3D%3D",
+    "validity": "12/01/2025 to 12/31/2025"
   },
   {
     "brand": "Orijen",
@@ -208,6 +220,12 @@
     "title": "Dollars OFF Fish Oil",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynVB%2BBvlqjFJg%3D%3D",
     "validity": "01/01/2026 to 01/31/2026"
+  },
+  {
+    "brand": "Primal Pet Foods",
+    "title": "Dollars OFF Goat Milk",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3XGfxslq3B",
+    "validity": "01/01/2026 to 02/28/2026"
   },
   {
     "brand": "PureVita",
@@ -244,5 +262,11 @@
     "title": "$15.00 OFF Select Wholemade Boxes and Clusters",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7SGfxtkKzJ",
     "validity": "12/01/2025 to 12/31/2025"
+  },
+  {
+    "brand": "Wellness Pet Food and Whimzees",
+    "title": "$10.00 OFF 4lb-5.8lb Wellness Puppy & Kitten Dry Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynXBeBvlqnGIg%3D%3D",
+    "validity": "01/01/2026 to 01/31/2026"
   }
 ]
