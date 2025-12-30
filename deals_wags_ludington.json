@@ -18,10 +18,22 @@
     "validity": "12/01/2025 to 12/31/2025"
   },
   {
+    "brand": "Bocce's Bakery",
+    "title": "$1.00 OFF Everday Training Bites",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBvl6HHJg%3D%3D",
+    "validity": "01/01/2026 to 01/31/2026"
+  },
+  {
     "brand": "Canidae",
     "title": "$7.00 OFF Large Bags of Dry Dog Food",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxtkK7D",
     "validity": "12/02/2025 to 12/31/2025"
+  },
+  {
+    "brand": "Carefresh",
+    "title": "$5.00 OFF Medium and Large Bags of Bedding",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrfAuBvlqjIKg%3D%3D",
+    "validity": "01/01/2026 to 06/30/2026"
   },
   {
     "brand": "Carefresh",
@@ -30,10 +42,22 @@
     "validity": "12/01/2025 to 12/31/2025"
   },
   {
+    "brand": "earthbath",
+    "title": "$2.00 OFF Cat Products",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7WBuBvlqjAKw%3D%3D",
+    "validity": "01/01/2026 to 01/31/2026"
+  },
+  {
     "brand": "Earthborn Holistic",
     "title": "Buy a 25lb Bag, Get a Chewy or Crunchy Treat FREE!",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWGfxtn67A",
     "validity": "12/01/2025 to 12/31/2025"
+  },
+  {
+    "brand": "Eco Shell",
+    "title": "Dollars OFF Litter",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynfBeBvlqjEKg%3D%3D",
+    "validity": "01/01/2026 to 02/28/2026"
   },
   {
     "brand": "Ethos Pet",
@@ -48,16 +72,28 @@
     "validity": "12/01/2025 to 12/31/2025"
   },
   {
-    "brand": "Fromm",
-    "title": "Buy 3, Get 1 FREE on 6oz Crunchy Os Dog Treats",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtkKrA",
-    "validity": "11/01/2025 to 12/31/2025"
+    "brand": "Fresh News (Targeted Pet Care)",
+    "title": "Dollars OFF 12lb and 25lb Cat Litter",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvfDuBvlqnEIQ%3D%3D",
+    "validity": "01/01/2026 to 01/31/2026"
   },
   {
     "brand": "Fromm",
     "title": "Buy 1, Get 1 FREE on PurrSnackitty Cat Treats",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtkKnJ",
     "validity": "11/01/2025 to 12/31/2025"
+  },
+  {
+    "brand": "Fromm",
+    "title": "Buy 3, Get 1 FREE on 6oz Crunchy Os Dog Treats",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxtkKrA",
+    "validity": "11/01/2025 to 12/31/2025"
+  },
+  {
+    "brand": "Midwestern Pet Food Inc",
+    "title": "Buy 1, Get 1 FREE on Wholesomes Rewards Biscuits",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWGfxslqrA",
+    "validity": "01/01/2026 to 01/31/2026"
   },
   {
     "brand": "My Perfect Pet",
@@ -85,6 +121,18 @@
   },
   {
     "brand": "Nutri Source",
+    "title": "Buy 1, Get 1 FREE on Select Dog Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxslqjF",
+    "validity": "01/01/2026 to 01/31/2026"
+  },
+  {
+    "brand": "Nutri Source",
+    "title": "Buy 1, Get 1 FREE on Little Bites Treats",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxslqjD",
+    "validity": "01/01/2026 to 01/31/2026"
+  },
+  {
+    "brand": "Nutri Source",
     "title": "$10.00 OFF 26lb Chicken Free Formulas!",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxtkqzE",
     "validity": "11/01/2025 to 12/31/2025"
@@ -109,15 +157,21 @@
   },
   {
     "brand": "Orijen",
+    "title": "Buy 1, Get 1 FREE on Dog & Cat Treats!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzfGfxtn67H",
+    "validity": "12/01/2025 to 12/31/2025"
+  },
+  {
+    "brand": "Orijen",
     "title": "Buy 1, Get 1 FREE on Small Bags of Puppy or Kitten Kibble",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzfGfxsl6jD",
     "validity": "01/01/2026 to 01/31/2026"
   },
   {
-    "brand": "Orijen",
-    "title": "Buy 1, Get 1 FREE on Dog & Cat Treats!",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzfGfxtn67H",
-    "validity": "12/01/2025 to 12/31/2025"
+    "brand": "Pet Releaf",
+    "title": "Dollars OFF Daily Releaf Oils",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrSDuBvlqjEKw%3D%3D",
+    "validity": "01/01/2026 to 01/31/2026"
   },
   {
     "brand": "Weruva Inc.",
