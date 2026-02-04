@@ -1,50 +1,122 @@
 [
   {
-    "brand": "Acana",
-    "title": "Buy 1, Get 1 FREE on Small Bags of Puppy or Kitten Kibble",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzfGfxsl6jH",
-    "validity": "01/01/2026 to 01/31/2026"
+    "brand": "Blue Buffalo",
+    "title": "$1.00 OFF Select Blue Buffalo Dog Treats",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxslq%2FG",
+    "validity": "02/01/2026 to 02/28/2026"
   },
   {
-    "brand": "Fera Pets",
-    "title": "$3.00 OFF Goat Milk Toppers",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzTAuBvlqnJKg%3D%3D",
-    "validity": "01/01/2026 to 01/31/2026"
+    "brand": "Bocce's Bakery",
+    "title": "$2.00 OFF Bocce's Brushy Sticks Dental Bars",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBvlqnDIw%3D%3D",
+    "validity": "02/01/2026 to 02/28/2026"
+  },
+  {
+    "brand": "Earthborn Holistic",
+    "title": "Buy a 25lb Bag, Get a Chewy Treat FREE!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWGfxslKjD",
+    "validity": "02/01/2026 to 02/28/2026"
+  },
+  {
+    "brand": "HomeoPet",
+    "title": "$2.00 OFF Select Nose Relief Products",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3UBuBvlqzHJg%3D%3D",
+    "validity": "02/01/2026 to 02/28/2026"
+  },
+  {
+    "brand": "HomeoPet",
+    "title": "$2.00 OFF Feline UTI+",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3UBuBvlqzHJw%3D%3D",
+    "validity": "02/01/2026 to 02/28/2026"
+  },
+  {
+    "brand": "HomeoPet",
+    "title": "$2.00 OFF Select WRM Clear Products",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3UBuBvlqzHJA%3D%3D",
+    "validity": "02/01/2026 to 02/28/2026"
+  },
+  {
+    "brand": "Inaba",
+    "title": "$1.00 OFF Churu Puree 4-Tube Packs for Cats",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3SD%2BBvlqrAJQ%3D%3D",
+    "validity": "02/01/2026 to 02/28/2026"
   },
   {
     "brand": "KOHA - Nootie",
-    "title": "Buy 4, Get 1 FREE on Poke Bowl Pouches",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3RGfxtnq3C",
-    "validity": "01/01/2026 to 01/31/2026"
+    "title": "$0.50 OFF KOHA Bland Diet Pouches for Cats",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3RGfxslarD",
+    "validity": "02/01/2026 to 02/28/2026"
+  },
+  {
+    "brand": "Lotus",
+    "title": "Buy 3, Get 1 FREE on Dog Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynWAOBvlqrAIg%3D%3D",
+    "validity": "02/01/2026 to 02/28/2026"
   },
   {
     "brand": "Lotus",
     "title": "Dollars OFF Oven-Baked Dog Kibble",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynWAOBvlqjBJA%3D%3D",
-    "validity": "01/01/2026 to 01/31/2026"
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynWAOBvlqnIJg%3D%3D",
+    "validity": "02/01/2026 to 02/28/2026"
   },
   {
-    "brand": "Natural Balance",
-    "title": "$6.00 OFF Large Bags of Limited Ingredient Dry Dog Food",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxslqDI",
-    "validity": "01/01/2026 to 01/31/2026"
+    "brand": "Natures Logic",
+    "title": "$5.00 OFF Large Bags of Dog or Cat Kibble",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyHVGfxsla%2FF",
+    "validity": "02/01/2026 to 02/28/2026"
   },
   {
-    "brand": "Nutri Source",
-    "title": "Buy 1, Get 1 FREE on Select Dog Cans",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxslqjF",
-    "validity": "01/01/2026 to 01/31/2026"
+    "brand": "Nootie",
+    "title": "$3.00 OFF Progility Minis",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3RGfxslarE",
+    "validity": "02/01/2026 to 02/28/2026"
   },
   {
-    "brand": "Orijen",
-    "title": "Buy 1, Get 1 FREE on Small Bags of Puppy or Kitten Kibble",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzfGfxsl6jD",
-    "validity": "01/01/2026 to 01/31/2026"
+    "brand": "Nootie",
+    "title": "$2.00 OFF Medicated Dental Gel & Wipes",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3RGfxslarG",
+    "validity": "02/01/2026 to 02/28/2026"
+  },
+  {
+    "brand": "Oxbow",
+    "title": "FREE 15oz Hay with 40oz Hay Purchase!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDfGfxsk6jD",
+    "validity": "02/18/2026 to 02/28/2026"
   },
   {
     "brand": "Shameless Pets",
-    "title": "$2.00 OFF Treats",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzXA%2BBvlqnBJg%3D%3D",
-    "validity": "01/01/2026 to 01/31/2026"
+    "title": "$3.00 OFF Dental Sticks",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzXA%2BBvlq3EIw%3D%3D",
+    "validity": "02/01/2026 to 02/28/2026"
+  },
+  {
+    "brand": "Shephard Boy Farms",
+    "title": "FREE Select Freeze Dried Goat Milk with 14oz Complete Diet Purchase",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3TA%2BBvlqzBIA%3D%3D",
+    "validity": "02/01/2026 to 02/28/2026"
+  },
+  {
+    "brand": "Tall Tails",
+    "title": "Buy 2 Plush Toys, Get $5.00 OFF",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QDuBvlqrIJQ%3D%3D",
+    "validity": "02/01/2026 to 02/28/2026"
+  },
+  {
+    "brand": "Territory",
+    "title": "Buy 2 Toys, Get $3.00 OFF",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QDuBvlqrIJA%3D%3D",
+    "validity": "02/01/2026 to 02/28/2026"
+  },
+  {
+    "brand": "Woof Pet",
+    "title": "$5.00 OFF Dental Products",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3VBuBvlqrIKw%3D%3D",
+    "validity": "02/01/2026 to 02/28/2026"
+  },
+  {
+    "brand": "Yeti Dog Chew",
+    "title": "$1.00 OFF Yak Chews!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrfBOBvlqvGIA%3D%3D",
+    "validity": "02/01/2026 to 02/28/2026"
   }
 ]
