@@ -1,18 +1,12 @@
 [
   {
-    "brand": "Antelope Pet Brands",
-    "title": "$3.00 OFF Select 4lb Recipes",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBvlKrJJQ%3D%3D",
-    "validity": "08/01/2026 to 08/31/2026"
-  },
-  {
-    "brand": "Bocce's Bakery",
+    "brand": "Bocce's Bakery (Antelope Pet)",
     "title": "$1.00 OFF Select Crunchy Biscuits",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBvlKrIJg%3D%3D",
     "validity": "08/01/2026 to 08/31/2026"
   },
   {
-    "brand": "Bocce's Bakery",
+    "brand": "Bocce's Bakery (Antelope Pet)",
     "title": "$1.00 OFF Everyday Crunchy Biscuits",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBvlKrIIQ%3D%3D",
     "validity": "08/01/2026 to 08/31/2026"
@@ -36,10 +30,22 @@
     "validity": "08/01/2026 to 08/31/2026"
   },
   {
-    "brand": "Fresh News",
+    "brand": "Fresh News (Targeted Pet Care)",
     "title": "Dollars OFF Select Cat Litter",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvfDuBvlKvAJw%3D%3D",
     "validity": "08/01/2026 to 08/31/2026"
+  },
+  {
+    "brand": "Fromm Pet Food",
+    "title": "Buy 5, Get 1 FREE on All 3oz Cat Food Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxula7A",
+    "validity": "08/01/2026 to 10/31/2026"
+  },
+  {
+    "brand": "Fromm Pet Food",
+    "title": "Buy 5, Get 1 FREE on All Dog Food Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxula7B",
+    "validity": "08/01/2026 to 10/31/2026"
   },
   {
     "brand": "HomeoPet",
@@ -54,7 +60,7 @@
     "validity": "08/01/2026 to 08/31/2026"
   },
   {
-    "brand": "Lous",
+    "brand": "Lotus",
     "title": "Dollars OFF Oven-Baked Dog Kibble",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynWAOBvlKnBJg%3D%3D",
     "validity": "08/01/2026 to 08/31/2026"
@@ -63,6 +69,12 @@
     "brand": "Momentum Carnivore Nutrition",
     "title": "$2.00 OFF Freeze-Dried Single Ingredient Heart & Liver Treats",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynVBeBvlKnHJg%3D%3D",
+    "validity": "08/01/2026 to 08/31/2026"
+  },
+  {
+    "brand": "My Perfect Pet (Antelope Pets)",
+    "title": "$3.00 OFF Select 4lb Recipes",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBvlKrJJQ%3D%3D",
     "validity": "08/01/2026 to 08/31/2026"
   },
   {
