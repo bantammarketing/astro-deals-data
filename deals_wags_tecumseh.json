@@ -1,5 +1,23 @@
 [
   {
+    "brand": "Blue Buffalo",
+    "title": "$2.00 OFF Dog Treats",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxuka3D",
+    "validity": "09/01/2026 to 09/30/2026"
+  },
+  {
+    "brand": "Blue Buffalo",
+    "title": "$5.00 OFF Select Dry Dog Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrUGfxuka3C",
+    "validity": "09/01/2026 to 09/30/2026"
+  },
+  {
+    "brand": "Bocce's Bakery (Antelope Pet)",
+    "title": "$1.00 OFF Everyday Training Bites",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBvlKvJKw%3D%3D",
+    "validity": "09/01/2026 to 09/24/2026"
+  },
+  {
     "brand": "Bocce's Bakery (Antelope Pet)",
     "title": "$1.00 OFF Select Crunchy Biscuits",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBvlKrIJg%3D%3D",
@@ -18,10 +36,22 @@
     "validity": "08/01/2026 to 08/31/2026"
   },
   {
+    "brand": "Champion Pet Foods",
+    "title": "Neighborhood Pet Store Day",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzfGfxukarH",
+    "validity": "09/25/2026 to 09/27/2026"
+  },
+  {
     "brand": "Earthbath",
     "title": "$2.00 OFF Oatmeal & Aloe Itch Relief Products",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy7WBuBvlKjFIQ%3D%3D",
     "validity": "08/01/2026 to 08/31/2026"
+  },
+  {
+    "brand": "Fera Pets",
+    "title": "$3.00 OFF Select Products",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyzTAuBvlKvDIw%3D%3D",
+    "validity": "09/01/2026 to 09/30/2026"
   },
   {
     "brand": "Fera Pets",
@@ -49,9 +79,21 @@
   },
   {
     "brand": "HomeoPet",
+    "title": "$2.00 OFF UTI+ Products",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3UBuBvlKvEIw%3D%3D",
+    "validity": "09/01/2026 to 09/30/2026"
+  },
+  {
+    "brand": "HomeoPet",
     "title": "$2.00 OFF Select Digestive Upsets Products",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3UBuBvlKnAIA%3D%3D",
     "validity": "08/01/2026 to 08/31/2026"
+  },
+  {
+    "brand": "Intersand",
+    "title": "Dollars OFF OdorLock 'Baby Powder' Litter",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynRB%2BBvlK3CIw%3D%3D",
+    "validity": "09/01/2026 to 09/24/2026"
   },
   {
     "brand": "KOHA - Nootie",
@@ -76,6 +118,24 @@
     "title": "$3.00 OFF Select 4lb Recipes",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBvlKrJJQ%3D%3D",
     "validity": "08/01/2026 to 08/31/2026"
+  },
+  {
+    "brand": "My Perfect Pet (Antelope Pets)",
+    "title": "$3.00 OFF Select 4lb Glycemic Friendly Recipes",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvWB%2BBvlKzAIA%3D%3D",
+    "validity": "09/01/2026 to 09/30/2026"
+  },
+  {
+    "brand": "Natural Balance",
+    "title": "$5.00 OFF Small Bags of Dry Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxuk6nG",
+    "validity": "09/01/2026 to 09/30/2026"
+  },
+  {
+    "brand": "Old Mother Hubbard Baking Co. (WellPet)",
+    "title": "$1.00 OFF 10oz P'Nutty B-Day Party",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynXBeBvlK3CIg%3D%3D",
+    "validity": "09/01/2026 to 09/30/2026"
   },
   {
     "brand": "Open Farm",
