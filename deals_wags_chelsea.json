@@ -7,15 +7,15 @@
   },
   {
     "brand": "Canidae",
-    "title": "$1.00 OFF Wet Dog Food!",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxukKDE",
-    "validity": "10/01/2026 to 10/31/2026"
-  },
-  {
-    "brand": "Canidae",
     "title": "$6.00 OFF Large Bags of All Life Stages!",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxukKDF",
     "validity": "10/01/2026 to 11/30/2026"
+  },
+  {
+    "brand": "Canidae",
+    "title": "$1.00 OFF Wet Dog Food!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvVGfxukKDE",
+    "validity": "10/01/2026 to 10/31/2026"
   },
   {
     "brand": "Champion Pet Foods",
@@ -25,21 +25,15 @@
   },
   {
     "brand": "Fromm Pet Food",
-    "title": "Buy 1, Get 1 FREE on 4lb Nutritionals Dry Dog Food!",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxukqvB",
-    "validity": "09/01/2026 to 12/31/2026"
-  },
-  {
-    "brand": "Fromm Pet Food",
     "title": "FREE 4lb Beef Frittata Dog Food with Qualifying Purchase",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxunqHG",
     "validity": "10/01/2026 to 12/31/2026"
   },
   {
     "brand": "Fromm Pet Food",
-    "title": "Buy 1, Get 1 FREE on Nutritionals Dog Cans!",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxpl63I",
-    "validity": "11/01/2026 to 12/31/2026"
+    "title": "Buy a 26oz Crunchy Os, Get a 6oz Crunchy Os FREE!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxpl6nJ",
+    "validity": "10/01/2026 to 12/31/2026"
   },
   {
     "brand": "Fromm Pet Food",
@@ -55,9 +49,9 @@
   },
   {
     "brand": "Fromm Pet Food",
-    "title": "Buy a 26oz Crunchy Os, Get a 6oz Crunchy Os FREE!",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxpl6nJ",
-    "validity": "10/01/2026 to 12/31/2026"
+    "title": "Buy 1, Get 1 FREE on 4lb Nutritionals Dry Dog Food!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxukqvB",
+    "validity": "09/01/2026 to 12/31/2026"
   },
   {
     "brand": "Fromm Pet Food",
@@ -70,6 +64,12 @@
     "title": "Buy 1, Get 1 FREE on NEW 6oz Crunchy Os CranLiver Kaboom!",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxunqHH",
     "validity": "10/01/2026 to 10/31/2026"
+  },
+  {
+    "brand": "Fromm Pet Food",
+    "title": "Buy 1, Get 1 FREE on Nutritionals Dog Cans!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3QGfxpl63I",
+    "validity": "11/01/2026 to 12/31/2026"
   },
   {
     "brand": "Fromm Pet Food",
@@ -103,6 +103,12 @@
   },
   {
     "brand": "HomeoPet",
+    "title": "$2.00 OFF 'Anxiety Relief' Products",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3UBuBvlK%2FGIA%3D%3D",
+    "validity": "10/01/2026 to 10/31/2026"
+  },
+  {
+    "brand": "HomeoPet",
     "title": "$2.00 OFF Select WRM Clear Products",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3UBuBvlK%2FGIg%3D%3D",
     "validity": "10/01/2026 to 10/31/2026"
@@ -111,12 +117,6 @@
     "brand": "HomeoPet",
     "title": "$2.00 OFF Select Digestive Upsets Products",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3UBuBvlK%2FGIw%3D%3D",
-    "validity": "10/01/2026 to 10/31/2026"
-  },
-  {
-    "brand": "HomeoPet",
-    "title": "$2.00 OFF 'Anxiety Relief' Products",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3UBuBvlK%2FGIA%3D%3D",
     "validity": "10/01/2026 to 10/31/2026"
   },
   {
@@ -139,14 +139,14 @@
   },
   {
     "brand": "Nutri Source & Pure Vita",
-    "title": "Buy 2, Get 1 FREE on Select Choice Cans",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxun6DF",
+    "title": "Buy 1, Get 1 FREE on Hearty Selects",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxunqrJ",
     "validity": "10/01/2026 to 10/31/2026"
   },
   {
     "brand": "Nutri Source & Pure Vita",
-    "title": "Buy 1, Get 1 FREE on Hearty Selects",
-    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxunqrJ",
+    "title": "Buy 2, Get 1 FREE on Select Choice Cans",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyvXGfxun6DF",
     "validity": "10/01/2026 to 10/31/2026"
   },
   {
