@@ -1,8 +1,20 @@
 [
   {
+    "brand": "BIXBI",
+    "title": "$8.00 OFF Small Bags of Dog or Cat Kibble",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynSA%2BBvlKHDJg%3D%3D",
+    "validity": "10/01/2026 to 10/31/2026"
+  },
+  {
     "brand": "Farmina",
     "title": "Save on N&D Pumpkin and N&D Ancestral Grain Diets!",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyDQGfxplazD",
+    "validity": "10/01/2026 to 10/31/2026"
+  },
+  {
+    "brand": "Nulo",
+    "title": "Dollars OFF Dry Dog Food!",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWy3WGfxukKDJ",
     "validity": "10/01/2026 to 10/31/2026"
   },
   {
@@ -10,5 +22,11 @@
     "title": "Dollars OFF for NEW Customers",
     "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWyrVBuBvlqnJJQ%3D%3D",
     "validity": "01/01/2026 to 12/31/2026"
+  },
+  {
+    "brand": "Vital Essentials",
+    "title": "$5.00 OFF Frozen Dog Food",
+    "image": "https://secure.astroloyalty.com/display_image.php?ec=z53mi3VCNs5cWynUDuBvlKHEJA%3D%3D",
+    "validity": "10/01/2026 to 10/31/2026"
   }
 ]
